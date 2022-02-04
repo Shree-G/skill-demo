@@ -6,6 +6,6 @@ public class squareTester {
     
     @Test
     public void squareTest(){
-        assertEquals(4, square.getTheSquare(4)); //failing test!
+        assertEquals(16, square.getTheSquare(4)); //failing test!
     }
 }
